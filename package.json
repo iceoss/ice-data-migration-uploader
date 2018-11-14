@@ -1,0 +1,12 @@
+{
+    "name": "ice-datamigration-uploader",
+    "description": "Command line utility for uploading data migration files to ICE",
+    "author": "ICE Health Systems Inc.",
+    "license": "Apache License, Version 2.0",
+    "version": "1.0.0",
+    "dependencies": {
+        "command-line-args": "5.0.2",
+        "command-line-usage": "5.0.2",
+        "request": "2.88.0"
+    }
+}
